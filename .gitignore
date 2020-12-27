@@ -1,3 +1,4 @@
 todoenv
 .env
 .vscode
+db.sqlite3
